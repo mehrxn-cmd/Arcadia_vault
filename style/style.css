@@ -1109,6 +1109,10 @@ footer {
         gap: 0;
     }
 
+    #nav-toggle:checked~.nav-links {
+        display: flex;
+    }
+
     .nav-links a {
         padding: 1rem;
         display: block;
