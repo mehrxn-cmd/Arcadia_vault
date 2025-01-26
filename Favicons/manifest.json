@@ -1,7 +1,7 @@
 {
-    "name": "App",
+    "name": "Arcadia Vault",
     "short_name": "Arcadia Vault",
-    "start_url": "/arcadiavault/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
