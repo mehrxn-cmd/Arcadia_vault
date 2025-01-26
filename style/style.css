@@ -380,6 +380,7 @@ img {
     padding: 0.5rem;
 }
 
+
 footer {
     background-color: #2C3E50;
     color: #BDC3C7;
@@ -1106,7 +1107,7 @@ footer {
         background-color: #1a1a1a;
         flex-direction: column;
         padding: 1rem 0;
-        gap: 0;
+        z-index: 10;
     }
 
     #nav-toggle:checked~.nav-links {
