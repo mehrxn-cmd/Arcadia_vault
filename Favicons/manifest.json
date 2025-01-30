@@ -1,7 +1,7 @@
 {
     "name": "Arcadia Vault",
     "short_name": "Arcadia Vault",
-    "start_url": "./",
+    "start_url": "/arcadiavault/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
