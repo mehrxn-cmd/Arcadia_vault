@@ -238,8 +238,6 @@ img {
     z-index: -1;
 }
 
-/* Semi-transparent overlay */
-
 
 /* Hover Effect */
 .category-card:hover {
@@ -318,7 +316,7 @@ img {
     display: block;
 }
 
-/* Search and Cart */
+/* Search */
 .nav-icons {
     display: flex;
     align-items: center;
@@ -359,15 +357,6 @@ img {
     opacity: 1;
 }
 
-.cart-icon {
-    color: white;
-    font-size: 1.2rem;
-    transition: color 0.3s ease;
-}
-
-.cart-icon:hover {
-    color: #00ff88;
-}
 
 /* Hamburger Menu */
 .hamburger {
@@ -709,8 +698,6 @@ footer {
     /* Zoom effect on hover */
 }
 
-
-/* Game details */
 .game-details {
     display: flex;
     flex-direction: column;
@@ -795,7 +782,6 @@ footer {
     right: 0;
     bottom: 0;
     background: rgba(0, 0, 0, 0.7);
-    /* Dark overlay */
     color: #FFFFFF;
     display: flex;
     flex-direction: column;
